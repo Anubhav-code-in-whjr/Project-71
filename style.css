@@ -1,0 +1,38 @@
+marquee img {
+    width: 20px;
+    height: 20px;
+}
+
+marquee {
+    font-size: 20px;
+    color: aqua;
+    font-weight: bold;
+}
+
+body {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+.page-header {
+    font-weight: bold;
+    font-size: 100px;
+}
+#hp_achievement img{height: 300px;
+                    width: 1000px ;
+                    text-align:left;
+}
+.movie_head {font-size: 20px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+width:100%;
+display:inline-block;}
+kbd{font-size: 30px;}
+.page-header{font-size: 30px;
+             font-weight: normal ;}
+#just-this-one{height: 200px;
+               }
